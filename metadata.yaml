@@ -1,11 +1,16 @@
 _repo: Kate-Aylesford-A-Story-of-the-Refugees_58846
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Peterson, Charles J.
     gutenberg_agent_id: '50179'
     url: http://www.gutenberg.org/2009/agents/50179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58846#Kate-Aylesford-A-Story-of-the-Refugees
 gutenberg_issued: '2019-02-09'
 gutenberg_type: Text
 identifiers:
